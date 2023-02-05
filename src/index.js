@@ -42,6 +42,10 @@ import Trackpages from './pages/Trackpages';
 
 const router = createBrowserRouter([
   {
+    path: "/",
+    element: <App />,
+  },
+  {
     path: "/home",
     element: <App />,
   },
