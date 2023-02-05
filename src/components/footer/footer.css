@@ -1,0 +1,148 @@
+.footer {
+    position: relative;
+    width: 100%;
+    background-color: #001226;
+    height: auto;
+    display: grid;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 30px 50px;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.about,
+.quick-links,
+.other-services,
+.contact-us{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.about .img{
+    width: 40px;
+    height: 40px;
+}
+
+.about .img img{
+    width: 100%;
+    height: 100%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.content div{
+    display: flex;
+    align-items: center;
+    gap: 1px;
+}
+
+
+
+.content a{
+    color: #fff;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: 0.015em;
+}
+
+.content div:hover a {
+    color: #1EF7C4;
+}
+  
+.content div:hover i {
+    transform: translateY(-5px) rotate(60deg);
+}
+
+.fa-arrow-up{
+    width: 24.19px;
+    height: 27.67px;
+    color: #1EF7C4;
+    transform: rotate(60deg);
+    margin-top: 20px;
+}
+
+.quick-links,
+.other-services,
+.contact-us{
+    color: #fff;
+    margin-top: -8px;
+}
+
+
+@media (max-width: 820px) {
+    .footer {
+     grid-template-columns: repeat(3, 1fr);
+     padding: 10px;
+     height: auto;
+    }
+  
+    .about,
+    .quick-links,
+    .other-services,
+    .contact-us {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  
+    .content a {
+      font-size: 18px;
+      line-height: 25px;
+    }
+  
+    .fa-arrow-up{
+        width: 24.19px;
+        height: 27.67px;
+        color: #1EF7C4;
+        transform: rotate(60deg);
+        margin-top: 20px;
+    }
+  }
+
+  @media (max-width: 420px) {
+    .footer {
+    grid-template-columns: 1fr 1fr;
+    padding: 15px;
+    height: auto;
+    gap: 20px;
+    }
+
+    .about,
+    .quick-links,
+    .other-services,
+    .contact-us {
+    width: 100%;
+    margin-bottom: 20px;
+    }
+
+    .content a {
+    font-size: 14px;
+    line-height: 20px;
+    }
+
+    .fa-arrow-up{
+    width: 24.19px;
+    height: 27.67px;
+    color: #1EF7C4;
+    transform: rotate(60deg);
+    margin-top: 15px;
+}
+
+    .about h1,
+    .quick-links h1,
+    .other-services h1,
+    .contact-us h1{
+        font-size: 25px;
+        
+    }
+}
+
+    
+    

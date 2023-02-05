@@ -1,0 +1,171 @@
+.ocean{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/oceanback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+
+.air{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/airback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.rail{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/railback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.road{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/roadback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.warehouse{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/warehouseback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.projectlogistics{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/projectlogisticback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.defence{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/defenceback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.hightech{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/hightechback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.agric{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/agricback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.chemical{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/chemicalback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+
+.pharma{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/pharmaback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.fastmove{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/fastmoveback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.industrial{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/industrialback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.projectcargo{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/projectback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.atmspare{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/atmspareback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.atmdeploy{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/atmdeploymentback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.atmstagin{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/atmstaginback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.atmcivil{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/atmcivilback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.atmtechnical{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/atmtechnicalback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.intercoms{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/intercomback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.hscode{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/hscode.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.cargoweight{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/cargoweightback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.instantquote{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/instantquoteback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.mediarelease{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/mediareleaseback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.aboutus{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/abouback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.mission{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/missionback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.career{
+    background: linear-gradient(to right, rgba(0, 18, 38, 0.863) 50%, transparent 60%), url("../image/careerback.png");
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+
+
